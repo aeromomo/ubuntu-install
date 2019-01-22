@@ -7,8 +7,8 @@
 #17643c29e3c4609818f26becf76d29a3 *ubuntu-16.04.1-desktop-amd64.iso
 #9e4e30c37c99b4e029b4bfc2ee93eec2 *ubuntu-16.04.1-desktop-i386.iso
 #d2d939ca0e65816790375f6826e4032f *ubuntu-16.04.1-server-amd64.img
-d2d939ca0e65816790375f6826e4032f *ubuntu-16.04.1-server-amd64.iso
+#d2d939ca0e65816790375f6826e4032f *ubuntu-16.04.1-server-amd64.iso
 #455206c599c25d6a576ba23ca906741a *ubuntu-16.04.1-server-i386.img
 #455206c599c25d6a576ba23ca906741a *ubuntu-16.04.1-server-i386.iso
-f430da8fa59d2f5f4262518e3c177246 *ubuntu-18.04.1-desktop-amd64.iso
+#f430da8fa59d2f5f4262518e3c177246 *ubuntu-18.04.1-desktop-amd64.iso
 188741f61c23d112a2564b0a864e25a3 *ubuntu-18.04.1.0-live-server-amd64.iso
