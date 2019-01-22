@@ -7,8 +7,8 @@ ISO=ubuntu-18.04.1.0-live-server-amd64.iso
 OUTPUT=autoinstall-ubuntu-18.04.1.0-live-server-amd64.iso
 URL=http://releases.ubuntu.com/18.04.1/ubuntu-18.04.1.0-live-server-amd64.iso
 
-MOUNT=/iso-mount-dir
-WORK=/iso-work-dir
+MOUNT=iso-mount-dir
+WORK=iso-work-dir
 
 ISOHDPFX=/usr/share/syslinux/isohdpfx.bin
 
