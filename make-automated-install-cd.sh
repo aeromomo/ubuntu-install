@@ -37,7 +37,6 @@ then
     if [ ! -f $ISO ]  || !  md5sum -c $ISO.MD5SUM
     then
         echo "Could not download iso?"
-        exit 1
     fi
 fi
 
